@@ -12,7 +12,5 @@ public class SpringBootWebApplication {
 
         context.getBean(HomeController.class);
         System.out.println("Spring Boot Application.");
-        System.out.println("Test");
-        System.out.println("Test1");
     }
 }
